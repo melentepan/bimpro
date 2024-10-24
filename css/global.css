@@ -458,7 +458,7 @@ html {
 
   .tab-controls__link:hover {
     transform: translateX(0);
-    text-decoration: underline;
+    /* text-decoration: underline; */
   }
 }
 
@@ -503,6 +503,6 @@ html {
 
   .tab-controls__link:active {
     transform: translateX(0);
-    text-decoration: underline;
+    /* text-decoration: underline; */
   }
 }
